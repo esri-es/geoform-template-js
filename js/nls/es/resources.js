@@ -60,7 +60,7 @@
       geographic: "Lat/Lon",
       locationTabText: "Ubicación",
       locationPopupTitle: "Ubicación",
-      submitButtonText: "Enviar entrada",
+      submitButtonText: "Enviar",
       submitButtonTextLoading: "Enviando&hellip;",
       formValidationMessageAlertText: "Los siguientes campos son obligatorios:",
       selectLocation: "Selecciona una ubicación para tu envío.",

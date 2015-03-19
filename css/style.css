@@ -18,6 +18,10 @@
     height: 36px;
     margin-left: 10px;
 }
+h2{
+    font-size: 18px;
+    
+}
 /* Style for Loading Indicator*/
 
 .app-loading {
@@ -127,10 +131,10 @@
 
 @media (min-width: 1200px) {
     .gf-map {
-        height: 500px;
+        height: 300px;
     }
     .preview-frame {
-        height: 600px;
+        height: 400px;
     }
 }
 #geoform .iconClass {
@@ -363,4 +367,4 @@ body.modal-open,
     opacity: 0.8;
     text-align: center;
     color: #000;
-}
+}}
