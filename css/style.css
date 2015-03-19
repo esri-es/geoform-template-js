@@ -121,10 +121,10 @@ h2{
 
 @media (min-width: 992px) {
     .gf-map {
-        height: 450px;
+        height: 250px;
     }
     .preview-frame {
-        height: 500px;
+        height: 300px;
     }
 }
 /* Large Devices, Wide Screens */
